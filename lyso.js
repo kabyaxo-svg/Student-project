@@ -1,4 +1,4 @@
-function getResult(marks, paasMarks = 40){
+function getResult(marks, passMarks = 40){
     if(marks>=80){
         return "A";
     } else if(marks>=60){
